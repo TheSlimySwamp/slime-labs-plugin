@@ -1,4 +1,4 @@
-package org.esoteric.tss.minecraft.plugins.experimental.commands;
+package foundation.esoteric.tss.minecraft.plugins.experimental.commands;
 
 import dev.jorel.commandapi.CommandAPICommand;
 import dev.jorel.commandapi.executors.CommandArguments;

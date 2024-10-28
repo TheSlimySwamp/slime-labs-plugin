@@ -1,4 +1,4 @@
-package org.esoteric.tss.minecraft.plugins.experimental.commands;
+package foundation.esoteric.tss.minecraft.plugins.experimental.commands;
 
 import dev.jorel.commandapi.CommandAPICommand;
 import dev.jorel.commandapi.executors.CommandArguments;
@@ -6,7 +6,7 @@ import net.kyori.adventure.text.Component;
 import org.esoteric.tss.minecraft.plugins.core.data.Colour;
 import org.esoteric.tss.minecraft.plugins.core.data.player.Message;
 import org.esoteric.tss.minecraft.plugins.core.util.MessageUtil;
-import org.esoteric.tss.minecraft.plugins.experimental.TSSSlimeLabsPlugin;
+import foundation.esoteric.tss.minecraft.plugins.experimental.TSSSlimeLabsPlugin;
 import org.bukkit.Chunk;
 import org.bukkit.NamespacedKey;
 import org.bukkit.entity.Player;

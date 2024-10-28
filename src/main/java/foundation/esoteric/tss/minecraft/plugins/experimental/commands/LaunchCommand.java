@@ -1,4 +1,4 @@
-package org.esoteric.tss.minecraft.plugins.experimental.commands;
+package foundation.esoteric.tss.minecraft.plugins.experimental.commands;
 
 import dev.jorel.commandapi.CommandAPICommand;
 import dev.jorel.commandapi.CommandPermission;
@@ -19,7 +19,7 @@ import org.esoteric.tss.minecraft.plugins.core.managers.MessageManager;
 import org.esoteric.tss.minecraft.plugins.core.util.DebugUtil;
 import org.esoteric.tss.minecraft.plugins.core.util.MessageUtil;
 import org.esoteric.tss.minecraft.plugins.core.util.NMSUtil;
-import org.esoteric.tss.minecraft.plugins.experimental.TSSSlimeLabsPlugin;
+import foundation.esoteric.tss.minecraft.plugins.experimental.TSSSlimeLabsPlugin;
 import org.bukkit.Bukkit;
 import org.bukkit.Color;
 import org.bukkit.Location;
