@@ -21,7 +21,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly("com.github.EsotericOrganisation:tss-core-plugin:v0.2.1:dev-all")
+    compileOnly("com.github.TheSlimySwamp:core-plugin:v0.2.2:dev-all")
 
     paperweight.paperDevBundle("1.21-R0.1-SNAPSHOT")
 }

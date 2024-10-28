@@ -1,7 +1,7 @@
 package foundation.esoteric.tss.minecraft.plugins.experimental;
 
 import foundation.esoteric.tss.minecraft.plugins.experimental.commands.*;
-import org.esoteric.tss.minecraft.plugins.core.TSSCorePlugin;
+import foundation.esoteric.tss.minecraft.plugins.core.TSSCorePlugin;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 

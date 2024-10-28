@@ -5,9 +5,9 @@ import dev.jorel.commandapi.executors.CommandArguments;
 import net.kyori.adventure.text.Component;
 import net.minecraft.server.level.ServerPlayer;
 import org.bukkit.entity.Player;
-import org.esoteric.tss.minecraft.plugins.core.data.Colour;
-import org.esoteric.tss.minecraft.plugins.core.util.MessageUtil;
-import org.esoteric.tss.minecraft.plugins.core.util.NMSUtil;
+import foundation.esoteric.tss.minecraft.plugins.core.data.Colour;
+import foundation.esoteric.tss.minecraft.plugins.core.util.MessageUtil;
+import foundation.esoteric.tss.minecraft.plugins.core.util.NMSUtil;
 
 import java.util.Locale;
 

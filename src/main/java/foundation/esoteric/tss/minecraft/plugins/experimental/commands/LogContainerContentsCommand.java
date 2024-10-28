@@ -8,7 +8,7 @@ import org.bukkit.block.Chest;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.BlockStateMeta;
-import org.esoteric.tss.minecraft.plugins.core.util.LogUtil;
+import foundation.esoteric.tss.minecraft.plugins.core.util.LogUtil;
 
 public class LogContainerContentsCommand {
 
